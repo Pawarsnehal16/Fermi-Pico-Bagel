@@ -7,7 +7,7 @@ Pico: Correct digit but in the wrong position.
 Bagel: No correct digits.
 You have 6 attempts to guess the secret number correctly.
 
-# How It Works
+## How It Works
 The program generates a random 3-digit number with unique digits (e.g., 345, 728, etc.).
 You enter your guess, which is also a 3-digit number.
 The game provides feedback after each guess:
@@ -16,15 +16,15 @@ Pico: The digit is correct but in the wrong position.
 Bagel: No digits are correct.
 The game continues until you either guess the correct number or run out of attempts.
 
-# Requirements
+## Requirements
   Python 3.6 or higher.
-# How to Run
+## How to Run
 Clone or download this repository to your local machine.
 Open the guess_the_number.py file in any Python editor or IDE.
 Run the program using Python 3:
   python guess_the_number.py
 Follow the prompts and enjoy the game!
-# Contributing
+## Contributing
 Feel free to contribute if you have suggestions for improvements or would like to enhance the game. Some ideas for improvements:
 
 Add a timer for each round to increase the challenge.
