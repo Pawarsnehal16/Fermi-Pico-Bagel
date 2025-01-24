@@ -1,5 +1,5 @@
 # Guess the Number Game (Fermi, Pico, Bagel)
-# Description
+## Description
 This is an interactive Python game based on the "Fermi, Pico, Bagel" logic puzzle. The program generates a random 3-digit number (with unique digits), and your goal is to guess the number. You will receive feedback based on your guess:
 
 Fermi: Correct digit in the correct position.
